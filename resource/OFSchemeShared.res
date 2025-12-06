@@ -2,7 +2,7 @@ Scheme
 {
 	Colors
 	{
-		"Orange"			"191 76 54 255"
+		"Orange"			"129 130 178 255"
 
 		"TransparentLightGray" "190 190 190 20"
 		
