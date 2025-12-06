@@ -23,7 +23,7 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"QOFHealthAmmoHandel"
 		"fgcolor"		"Black"
-		"xpos"			"1"
+		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"4"  
 		"wide"			"140"
